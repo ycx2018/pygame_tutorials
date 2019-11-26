@@ -3,8 +3,8 @@ import pygame
 import random
 import os
 
-WIDTH = 800
-HEIGHT = 600
+WIDTH = 400
+HEIGHT = 300
 FPS = 30
 
 # define colors
